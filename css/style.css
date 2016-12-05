@@ -5,3 +5,24 @@
 .navbar-header{
 	color:white;
 }
+
+body{
+	background-image: url(http://i0.wp.com/backgroundmachine.com/wp-content/uploads/2015/07/photoshop-backgrounds-background-image-css-android-backgrounds.jpg?fit=1200%2C797);
+	background-size: cover;
+	font-family: Arial
+}
+
+.card{
+	background-color: rgb(30,30,30);
+	color: rgb(200,200,200);
+}
+
+.card-footer{
+	color:black;
+	font-size: 25px
+}
+
+.footnote {
+	position: absolute;
+	right: 0;
+}

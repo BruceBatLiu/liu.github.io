@@ -1,0 +1,44 @@
+.navbar-header{
+	color: white;
+}
+
+.main-body{
+	margin-top: 20px;
+}
+
+.jumbotron{
+	background-image: url(../img/bac2.jpg);
+	background-size:cover;
+	height: 800px;
+	width: 100%;
+}
+
+
+.margin-header{
+	margin-top: 10px;
+}
+
+.margin-buttons{
+	 color: black;
+     margin-top: 180px;
+}
+
+.line1{
+	 color: black;
+     font-size: 25px;
+}
+
+
+.margin-buttons2{
+	margin-top: 5px;
+}
+
+.line2{
+	color: black;
+	font-style: underline;
+	font-size: 25px;
+}
+
+body{
+	font-family:Arial;
+}
